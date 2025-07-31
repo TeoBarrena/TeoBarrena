@@ -59,7 +59,7 @@
   
   <!-- SPARQL -->
   <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/8/87/Resource_Description_Framework.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.census.de%2Fen%2Fblog%2Fnew-sparql-endpoint%2F&psig=AOvVaw1RrevbVjtIQoS4NcY3Dnfs&ust=1754084995821000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCypfqJ6I4DFQAAAAAdAAAAABAE)" height="40" alt="SPARQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Linked_Data_Cloud_Diagram.svg" height="40" alt="SPARQL" />
   </a>
 </p>
 
