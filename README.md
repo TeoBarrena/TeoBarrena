@@ -59,8 +59,8 @@
   
   <!-- SPARQL -->
   <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Linked_Data_Cloud_Diagram.svg" height="40" alt="SPARQL" />
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/619/619034.png" height="40" alt="SPARQL" />
+</a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoBarrena&layout=compact&theme=dark)
