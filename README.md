@@ -57,10 +57,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
   </a>
   
-  <!-- SPARQL -->
-  <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/619/619034.png" height="40" alt="SPARQL" />
-</a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoBarrena&layout=compact&theme=dark)
