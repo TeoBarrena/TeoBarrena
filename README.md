@@ -57,6 +57,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
   </a>
   
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeoBarrena&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeoBarrena&layout=compact&theme=tokyonight&hide=html,css)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark)
