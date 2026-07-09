@@ -1,62 +1,116 @@
-## Hi there 👋
+# Teo Ignacio Barrena
 
-### Contacto -> teobarrena@gmail.com
+### Backend Developer · Java / Spring Boot · Python / Django / Flask
+**La Plata, Argentina** · Open to remote roles (LATAM, USA, Europe)
 
-### Lenguajes y Herramientas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-teobarrena-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teobarrena)
+[![Email](https://img.shields.io/badge/Email-teobarrena@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:teobarrena@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TeoBarrena-181717?style=flat&logo=github&logoColor=white)](https://github.com/TeoBarrena)
 
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  </a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  </a>
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  </a>
-  
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  </a>
-  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeoBarrena&layout=compact&theme=tokyonight&hide=html,css)
+---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark)
+## About me
+
+Backend-focused Software Developer finishing a Computer Science degree at UNLP (2026).
+I build end-to-end applications with Java/Spring Boot and Python/Django/Flask — from REST API design and OAuth 2.0 authentication to relational and non-relational database management.
+
+Currently expanding knowledge in AWS and Docker. Looking for my first junior role where I can contribute from day one.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Backend Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+**APIs & Auth**
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Testing & Data**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 [NGO Management Application](https://github.com/TeoBarrena/ONG-App)
+> Multi-module web app managing 200+ users, neighborhoods, districts and campaigns for an NGO.
+> Refactored backend from Jakarta EE to Spring Boot applying Repository pattern and Dependency Injection.
+
+`Java` `Spring Boot` `Hibernate` `Jakarta EE` `Angular` `Docker`
+
+---
+
+### 🐴 [Riders Management System — Cedica](https://github.com/TeoBarrena/Cedica)
+> REST API backend for an equestrian management platform with OAuth 2.0 auth and role-based access control.
+> PostgreSQL database with 8 tables designed from scratch for user profiles and session management.
+
+`Python` `Flask` `PostgreSQL` `OAuth 2.0` `Vue.js`
+
+---
+
+### 🌿 [Geospatial Biodiversity Analysis](https://github.com/TeoBarrena/OVS-Biodiversidad)
+> Geospatial data pipeline integrating real estate records (RDF/Turtle) with iNaturalist biodiversity datasets,
+> analysing the impact of urban development on local biodiversity in Gran La Plata.
+
+`Python` `Pandas` `GeoPandas` `SPARQL` `RDF/Turtle` `Jupyter Notebook`
+
+---
+
+### 🔄 [Barter & Exchange Platform — CariDas](https://github.com/TeoBarrena/CariDas)
+> Community exchange platform with user management, item listings and donation modules built with Django MVC.
+
+`Python` `Django` `SQLite`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark&hide_border=true)
+
+---
+
+## 📚 Education
+
+**Licenciatura en Sistemas de Información** (Bachelor's in Computer Science)
+Facultad de Informática — UNLP · 2021 – Present · Expected graduation: 2026
+
+---
+
+*💼 Open to junior backend roles · On-site in Buenos Aires / La Plata or fully remote*
