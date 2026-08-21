@@ -102,7 +102,7 @@ Open to backend and full-stack opportunities — remote or on-site in Buenos Air
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeoBarrena&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark&hide_border=true)
 
 ---
 
