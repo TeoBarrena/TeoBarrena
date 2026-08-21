@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=TeoBarrena&show_icons=true&theme=dark&hide_border=true
+          options: username=TeoBarrena&show_icons=true&theme=dark&hide_border=true&commits_year=2026
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
