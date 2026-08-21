@@ -12,9 +12,9 @@
 ## About me
 
 Backend-focused Software Developer finishing a Computer Science degree at UNLP (2026).
-I build end-to-end applications with Java/Spring Boot and Python/Django/Flask — from REST API design and OAuth 2.0 authentication to relational and non-relational database management.
-
-Currently expanding knowledge in AWS and Docker. Looking for my first junior role where I can contribute from day one.
+I build end-to-end applications with Java / Spring Boot and Python / Django / Flask — from REST API design and OAuth 2.0 authentication to relational (PostgreSQL, MySQL) and non-relational (MongoDB, Redis) database management.
+Comfortable working in Linux environments and containerizing applications with Docker. Currently expanding into AWS cloud services, Generative AI, Machine Learning and Data Analysis with Python.
+Open to backend and full-stack opportunities — remote or on-site in Buenos Aires / La Plata.
 
 ---
 
@@ -102,8 +102,7 @@ Currently expanding knowledge in AWS and Docker. Looking for my first junior rol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeoBarrena&show_icons=true&count_private=true&theme=dark&hide_border=true)
 ---
 
 ## 📚 Education
